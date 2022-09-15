@@ -1,0 +1,74 @@
+
+header{
+    background-color:rgb(22 32 44) ;
+}
+body{
+    background-color:rgb(22 32 44) ;
+}
+
+.menu li a{
+    background-color: rgb(22 32 44);
+    list-style: none;
+}
+
+.nav_menu button{
+   background-color: yellow;
+   min-width:30.5em;
+    float: left;
+    margin-right:0em;
+    text-align:center;
+    display: block;
+ 
+}
+
+#primary_nav{
+    background-color: rgb(22 32 44);
+}
+
+.primary_menu{
+    background-color:rgb(22 32 44);
+    list-style: none;
+   
+}
+.primary_menu li{
+    background-color: rgb(22 32 44);
+    float: left;
+    min-width: 10.7em;
+    display: block;
+    min-height: 50px;
+    margin-right: 0.5em;
+    text-align: center;
+}
+
+.secondary_menu{
+    list-style: none;
+    background-color:rgb(22 32 44);
+}
+
+.secondary_menu li{
+    float: left;
+    min-width:25.5em;
+    margin-right: 0.5em;
+    min-height: 25px;
+    display: block;
+}
+
+table th{
+   min-width:20em;
+    
+    
+}
+
+table td{
+    background-color: rgb(22 32 44);
+border:
+    
+}
+
+table1 th{
+    background-color: black;
+}
+
+footer{
+    background-color: rgb(22 32 44);
+}
